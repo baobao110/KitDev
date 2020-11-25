@@ -1,6 +1,6 @@
-package org.jetbrains.plugins.template.services
+package com.github.baobao110.kitdev.services
 
-import org.jetbrains.plugins.template.MyBundle
+import com.github.baobao110.kitdev.MyBundle
 
 class MyApplicationService {
 
